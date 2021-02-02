@@ -1,1 +1,2 @@
 # Connect-Four-Game
+This is a Connect Four Game which provides the feasibility to have two players and have them take turns one by one and play the game. The player who first finishes the first four connections horizontally or vertically is the winner. He will get a pop up message after winning and game will turn all cells to be disabled after that. There is a reset button which after every game finishes becomes enabled and then once user clicks on it, the game is reset and again it can be started from scratch.
