@@ -1,0 +1,13 @@
+.parentGrid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-gap: 5px;
+}
+.childElem {
+    height: 20px;
+    width: 30px;
+    background-color: grey;
+}
+.childElem:hover {
+    background-color: green;
+}
